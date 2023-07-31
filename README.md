@@ -1,5 +1,8 @@
 # Electronics-Engineering-Task4
 
+This circuit shows how to control a simple motor dc with a rotary encoder and stop it when the value reads on the encoder I greater than 3000.
+
+Calculating engine revs.
 
 Hardware:
 - Arduino Board
